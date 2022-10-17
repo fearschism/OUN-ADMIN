@@ -1,6 +1,6 @@
 # OUN-ADMIN
-## This is the Admin Web app of https://github.com/fearschism/OUN
+### This is the Admin Web app of https://github.com/fearschism/OUN
 
-### STACK:
+## STACK:
 * Alphine js
 * TailwindCSS
